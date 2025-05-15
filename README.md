@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently pursuing **Master’s in Computer Science at University of Cincinnati**
 - 💻 Former Backend Developer at **TCS India** | IoT Intern at **GustoValley**
-- 🌱 I’m currently learning **Cloud DevOps, Kubernetes, React, and Azure**
 - 👯 I’m looking to collaborate on **Java, SpringBoot, and Full Stack Projects**
 - 📫 How to reach me: **soundaryakookanda@gmail.com**
 - 🧠 Fun Fact: I automate everything I can!
