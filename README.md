@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soundarya+Poovaiah+Kookanda" alt="Typing SVG" />
 </h1>
-<h3 align="center">Java | Full Stack Developer | DevOps Enthusiast</h3>
+<h3 align="center">Java | Full Stack Java Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Full+Stack+Java+Engineer;DevOps+Learner;Open+to+Exciting+Opportunities" alt="Typing SVG" />
