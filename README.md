@@ -19,7 +19,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,azure,docker,kubernetes,git,github,mysql,postman,aws,py" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,azure,aws,py,java,docker,kubernetes,git,github,mysql,postman,spring," />
 </p>
 
 ---
