@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Soundarya+Poovaiah+Kookanda;Java+Developer;Full+Stack+Java+Engineer+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Soundarya+Poovaiah+Kookanda" alt="Typing SVG" />
 </h1>
 <h3 align="center">Java | Full Stack Developer | DevOps Enthusiast</h3>
 
