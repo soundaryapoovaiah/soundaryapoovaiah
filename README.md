@@ -4,7 +4,7 @@
 <h3 align="center"> | Java | Full Stack Java Developer | DevOps Enthusiast | Data Analyst Enthusiast | </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Full+Stack+Java+Engineer; Data+Analyst+Learner;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Full+Stack+Java+Engineer;Data+Analyst+Learner;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 </p>
 
 - 🔭 I’m currently pursuing **Master’s in Computer Science at University of Cincinnati**
