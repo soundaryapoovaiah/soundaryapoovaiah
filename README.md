@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Passionate+Java+Developer;Full+Stack+Java+Engineer;DevOps+Engineer;Aspiring+Data+Analyst;Open+to+Exciting+Opportunities" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently pursuing **Master’s in Computer Science at University of Cincinnati**
+- 🔭 I recently graduated with a **Master’s in Computer Science at University of Cincinnati**
 - 💻 Former Backend Developer at **TCS India** | IoT Intern at **GustoValley**
 - 👯 I’m looking to collaborate on **Java, SpringBoot, and Full Stack Projects**
 - 📫 How to reach me: **soundaryakookanda@gmail.com**
